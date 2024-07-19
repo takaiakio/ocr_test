@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ocr-project
+    name: ocr_test
     env: python
     plan: free
     buildCommand: |
